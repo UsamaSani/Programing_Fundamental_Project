@@ -14,7 +14,7 @@ The "Number Guessing Game" project was developed as part of the first semester i
 ## Getting Started
 1. Clone the repository to your local machine.
 2. Open the project files in your preferred code editor.
-3. Run the project's main file (e.g., `number_guessing_game.py`) to start the game.
+3. Run the project's main file (main.c) to start the game.
 4. Follow the prompts to guess the randomly generated number.
 5. Enjoy playing and improving your problem-solving skills!
 
